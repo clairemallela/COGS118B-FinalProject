@@ -18,7 +18,13 @@ commit
 push
 > `git push`
 OR, if first time
-> `git push -u origin main`
+> `git push -u origin <branch name, main if to main>`
 
 pull files
 > `git pull`
+
+switch between branches
+> `git checkout <branch name>`
+
+create new branch
+> `git checkout -b <new branch name>`
