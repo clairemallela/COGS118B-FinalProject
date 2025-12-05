@@ -1,5 +1,14 @@
 # COGS118B-FinalProject
 
+create virtual environment
+> `conda create -n cogs118b python==3.13.7`
+
+activate virtual environment
+> `conda activate cogs118b`
+
+install requirements
+> `pip install -r requirements.txt`
+
 add files (git)
 > `git add .`
 
